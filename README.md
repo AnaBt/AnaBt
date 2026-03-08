@@ -4,7 +4,7 @@
 ## 🛠️ My Toolbox
 
 
-<summary><b>Languages</b></summary>
+<b>Languages</b>
 
 <br>
 
@@ -13,7 +13,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<summary><b>Machine Learning</b></summary>
+<b>Machine Learning</b>
 
 <br>
 
@@ -66,7 +66,6 @@
 
 </details>
 
----
 
 <h2 align="center">
   <a href="https://github.com/SEU_USERNAME?tab=repositories">
