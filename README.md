@@ -68,7 +68,7 @@
 
 </details>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=9683F7&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=9683F7&height=150&section=footer)
 
 
 <h2 align="center">
