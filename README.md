@@ -68,6 +68,8 @@
 
 </details>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=9683F7&height=200&section=footer)
+
 
 <h2 align="center">
   <a href="https://github.com/SEU_USERNAME?tab=repositories" , color = "#9683F7">
