@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9683F7&background=FFFFFF00&center=true&repeat=false&width=435&lines=I'm+Ana,+welcome+to+my+profile!)](https://git.io/typing-svg)
 
----
 
 ## 🛠️ My Toolbox
 
@@ -16,7 +15,7 @@
 
 </details>
 
----
+
 
 <details>
 <summary><b>Machine Learning</b> (click to expand)</summary>
@@ -36,8 +35,27 @@
 
 </details>
 
----
+<details>
+<summary><b>Web Devolpment and Image Tools </b> (click to expand)</summary>
 
+<br>
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+
+### Image Tools
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
+[![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#)
+
+</details>
 <details>
 <summary><b>Development Tools</b> (click to expand)</summary>
 
