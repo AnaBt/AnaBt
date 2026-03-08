@@ -64,7 +64,7 @@
 
 
 <h2 align="center">
-  <a href="https://github.com/SEU_USERNAME?tab=repositories">
+  <a href="https://github.com/SEU_USERNAME?tab=repositories" , color = "pink">
     💻 Check Out My Repos ⬇️
   </a>
 </h2>
