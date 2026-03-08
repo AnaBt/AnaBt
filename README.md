@@ -3,8 +3,8 @@
 
 ## 🛠️ My Toolbox
 
-<details open>
-<summary><b>Languages</b> (click to expand)</summary>
+
+<summary><b>Languages</b></summary>
 
 <br>
 
@@ -13,12 +13,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-</details>
-
-
-
-<details>
-<summary><b>Machine Learning</b> (click to expand)</summary>
+<summary><b>Machine Learning</b></summary>
 
 <br>
 
@@ -32,8 +27,8 @@
 ![CSV](https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
 ![Tableau](https://img.shields.io/badge/Tableau-0176D3?style=for-the-badge)
-
-</details>
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 <details>
 <summary><b>Web Devolpment and Image Tools </b> (click to expand)</summary>
