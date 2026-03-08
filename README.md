@@ -24,18 +24,6 @@
 
 </details>
 
----
-
-<details>
-<summary><b>AI & Machine Learning</b> (click to expand)</summary>
-
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-ML-blue)
-![Decision Trees](https://img.shields.io/badge/Decision%20Trees-ML-green)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-ML-darkgreen)
-![SVM](https://img.shields.io/badge/SVM-ML-orange)
-![KMeans](https://img.shields.io/badge/KMeans-Clustering-red)
-
-</details>
 
 ---
 
