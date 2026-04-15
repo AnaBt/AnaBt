@@ -34,11 +34,6 @@
 
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
-<details>
-<summary><b>Web Devolpment and Image Tools </b> (click to expand)</summary>
-
-<br>
-
 <b>☁️ Web Scrapping:</b>
 
 [![SELENIUM](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](#)
