@@ -28,6 +28,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-0176D3?style=for-the-badge)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![DuckDB](https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow)](#)
 
 <b>☁️ Cloud System:</b>
 
