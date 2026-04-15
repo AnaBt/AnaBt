@@ -32,7 +32,7 @@
 
 <b>☁️ Cloud System:</b>
 
-[![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white](#)
+[![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
 
 <b>🔎 Web Scrapping:</b>
 
