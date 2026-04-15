@@ -7,7 +7,7 @@
 
 ---
 
-<b>🛠️ Languages: </b>
+<b>🛠️ Programming Languages: </b>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,6 +32,15 @@
 <b>☁️ Cloud System:</b>
 
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+
+<details>
+<summary><b>Web Devolpment and Image Tools </b> (click to expand)</summary>
+
+<br>
+
+<b>☁️ Web Scrapping:</b>
+
+[![SELENIUM](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](#)
 
 <details>
 <summary><b>Web Devolpment and Image Tools </b> (click to expand)</summary>
