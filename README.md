@@ -21,7 +21,7 @@
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-![MLflow](https://shields.io)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 <b>🗃 Data:</b>
 
